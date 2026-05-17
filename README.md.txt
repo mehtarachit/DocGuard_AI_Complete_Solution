@@ -37,9 +37,4 @@ An LLM (GPT‑4o‑mini) generates a natural‑language forensic report with bou
 ## Feasibility & Prototype
 A fully functional prototype was built during the hackathon period. The system runs a FastAPI backend with pre‑trained models fine‑tuned on synthetic banking documents. An interactive dashboard allows underwriters to upload documents and see real‑time results. Source code and live demo links are available.
 
-## Demo & Resources
-- **Live Demo:** [GitHub Pages Demo](https://yourusername.github.io/docguard-ai-demo/)
-- **Source Code:** [GitHub Repository](https://github.com/yourusername/docguard-ai)
-- **Video Walkthrough:** [YouTube Link](https://youtu.be/yourvideoid)
-
 DocGuard AI — Every document tells a story. Make sure it’s the truth.
